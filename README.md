@@ -75,7 +75,3 @@ expense-tracker/
 ## License
 
 MIT License
-
-## Contact
-
-[Your Name/Email]
